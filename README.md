@@ -1,7 +1,7 @@
-## Introduction-to-Linux-by-Machtelt-Garrels
+# Introduction-to-Linux-by-Machtelt-Garrels
 Introduction to Linux by Machtelt Garrels
 
-# 1.Why this guide?
+# Why this Guide?
 Many people still believe that learning Linux is difficult, or that only experts can understand how a Linux
 system works. Though there is a lot of free documentation available, the documentation is widely scattered on
 the Web, and often confusing, since it is usually oriented toward experienced UNIX or Linux users. Today,
@@ -9,7 +9,7 @@ thanks to the advancements in development, Linux has grown in popularity both at
 goal of this guide is to show people of all ages that Linux can be simple and fun, and used for all kinds of
 purposes.
 
-# 2.Who should read this book?
+## Who should read this book?
 This guide was created as an overview of the Linux Operating System, geared toward new users as an
 exploration tour and getting started guide, with exercises at the end of each chapter. For more advanced
 trainees it can be a desktop reference, and a collection of the base knowledge needed to proceed with system
