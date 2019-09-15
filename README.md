@@ -1,7 +1,7 @@
-# Introduction-to-Linux-by-Machtelt-Garrels
+## Introduction-to-Linux-by-Machtelt-Garrels
 Introduction to Linux by Machtelt Garrels
 
-# 1. Why this guide?
+# 1.Why this guide?
 Many people still believe that learning Linux is difficult, or that only experts can understand how a Linux
 system works. Though there is a lot of free documentation available, the documentation is widely scattered on
 the Web, and often confusing, since it is usually oriented toward experienced UNIX or Linux users. Today,
